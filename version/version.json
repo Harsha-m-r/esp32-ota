@@ -1,0 +1,4 @@
+{
+    "version": "1.0.0",
+    "binary": "firmware/esp32_ota_v1.0.0.bin"
+  }
